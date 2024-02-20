@@ -5,3 +5,4 @@ console.log(`Resultado = ${a + b}`);
 
 // alterei
 // alterei de novo
+// alterei pro github
